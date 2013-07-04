@@ -13,4 +13,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  forgery_ja
+  forgery_ja (>= 0.2.1)
