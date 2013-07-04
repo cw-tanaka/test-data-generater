@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    forgery (0.3.12)
+      nokogiri (~> 1.4)
+    forgery_ja (0.2.2)
+      forgery (~> 0.3.8)
+    mini_portile (0.5.0)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  forgery_ja
